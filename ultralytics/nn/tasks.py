@@ -943,7 +943,8 @@ def parse_model(d, ch, verbose=True):  # model_dict, input_channels(3)
             C2fCIB,
             C2f_DLKA,
             C2f_MSBlock,
-            Down_wt
+            Down_wt,
+            Adaptive_Spatial_Attention
         }:
             c1, c2 = ch[f], args[0]
             if c2 != nc:  # if c2 not equal to number of classes (i.e. for Classify() output)
