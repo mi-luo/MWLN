@@ -4,7 +4,7 @@ A Multi-level Information Injection and Spatial Frequency Interaction Downsampli
 
 ## install
 ```python 
-git clone https://github.com/mi-luo/MWLN  # clone  
+git clone https://github.com/mi-luo/MSLN  # clone  
 cd MSLN  
 pip install -r requirements.txt  #  install
 ```
@@ -29,5 +29,5 @@ We sincerely appreciate the spirit of open sharing demonstrated by these organiz
 
 
 ## Contact
-For MWLN bug reports and feature requests, and feel free to ask questions and engage in discussions!
+For MSLN bug reports and feature requests, and feel free to ask questions and engage in discussions!
 
