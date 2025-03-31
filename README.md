@@ -1,11 +1,11 @@
 
-# MWLN
-A Multi-level Information Injection and Wavelet Sampling Learning Network(MWLN) for Aerial Imagery Object Detection is proposed.
+# MSLN
+A Multi-level Information Injection and Spatial Frequency Interaction Downsampling Learning Network for Aerial Object Detection is proposed.
 
 ## install
 ```python 
 git clone https://github.com/mi-luo/MWLN  # clone  
-cd MWLN  
+cd MSLN  
 pip install -r requirements.txt  #  install
 ```
 
